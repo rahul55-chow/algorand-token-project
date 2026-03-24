@@ -1,2 +1,15 @@
-# algorand-token-project
-The Algorand token project is a blockchain project which works based on tokenized.
+# Algorand Project
+
+## Project Idea
+Brief description of your project.
+
+## Features
+- Feature 1
+- Feature 2
+
+## Tech Stack
+- Algorand
+- Python / JavaScript
+
+## Goal
+What problem your project solves
